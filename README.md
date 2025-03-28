@@ -24,7 +24,7 @@ The **Meet ReqRes** is a React-based web application that provides user authenti
 ## Installation & Setup
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/webwithrathor/Meet-ReqRes.git
+   git clone https://github.com/WebWithRathor/Meet-ReqRes.git
    cd Meet-ReqRes
    ```
 
